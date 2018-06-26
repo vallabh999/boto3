@@ -2,7 +2,7 @@
 
 # Initialization of variables
 
-HOST="13.232.123.63"
+HOST=""
 PORT="27017"
 USERNAME=""
 PASSWORD=""

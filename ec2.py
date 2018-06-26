@@ -34,7 +34,7 @@ for i in after_start:
        # Connect/ssh to an instance
        try:
            # Here 'ubuntu' is user name and 'instance_ip' is public IP of EC2
-          client.connect(hostname="13.232.134.218", username="ubuntu", pkey=key)
+          client.connect(hostname="", username="ubuntu", pkey=key)
 
            # Execute a command(cmd) after connecting/ssh to an instance
 
